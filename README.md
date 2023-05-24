@@ -1,4 +1,3 @@
-### 
 ### Guide
 - _read_data.m_ : permet de lire les données générées par Blender dans "./metadata/masques" et "./metadata/matrices". Ces métadonnées sont stockées dans le fichier "lapin.mat".
 
